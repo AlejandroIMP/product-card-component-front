@@ -32,7 +32,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
-I learned about semantic HTML and CSS with flexbox, and learning about extra in CSS like :hover
+I learned about `<picture>`, and how implent to use two images for responsive design
 
 ## Author
 
