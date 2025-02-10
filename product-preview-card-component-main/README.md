@@ -19,8 +19,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/AlejandroIMP/qr-component-frontend)
-- Live Site URL: [Social Links](https://qr-component-frontend-imp.netlify.app/)
+- Solution URL: [GitHub](https://github.com/AlejandroIMP/product-card-component-front)
+- Live Site URL: [Card Component](https://product-card-component-front-imp.netlify.app/)
 
 ## My process
 
