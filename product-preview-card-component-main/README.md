@@ -20,7 +20,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/AlejandroIMP/product-card-component-front)
-- Live Site URL: [Card Component](https://product-card-component-front-imp.netlify.app/)
+- Live Site URL: [Card Component](https://product-card-component-front.netlify.app/)
 
 ## My process
 
